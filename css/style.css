@@ -164,7 +164,7 @@ body {
     }
     
     .front-header {
-      background: url('../img/ait_eng1.jpeg');
+      background: url('./img/ait_eng1.jpeg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
