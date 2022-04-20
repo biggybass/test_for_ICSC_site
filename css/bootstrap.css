@@ -1089,7 +1089,7 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #333;
+    color: rgb(0, 0, 0);
     background-color: #fff;
 }
 input,
@@ -1272,19 +1272,21 @@ h1,
 }
 h2,
 .h2 {
-    font-size: 30px;
+    font-size: 50px;
 }
 h3,
 .h3 {
-    font-size: 24px;
+    font-size: 32px;
+    text-decoration: underline;
 }
 h4,
 .h4 {
-    font-size: 18px;
+    font-size: 24px;
+    text-decoration: underline;
 }
 h5,
 .h5 {
-    font-size: 14px;
+    font-size: 18px;
 }
 h6,
 .h6 {
@@ -1771,7 +1773,7 @@ pre code {
     left: 75%;
 }
 .col-xs-push-8 {
-    left: 66.66666667%;
+    left: 0%;
 }
 .col-xs-push-7 {
     left: 58.33333333%;
